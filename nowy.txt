@@ -5,3 +5,4 @@
 5. Wprowadzenie mo¿liwoœci kopiowania wybranego odcinka monitora(printscreena) i mo¿e te¿ nagrywania jakiœ czynnoœci (zapamiêtania i potem wklejania) [improvements]
 6. ¯eby okno options po zapisaniu zmian nie minimalizowa³o(znika³o) siê automatycznie po naciœniêciu save do trayu  (Pontipn5) [improvements]
 7. ¯eby po otwarciu okna options i braku wprowadzenia zmian przy próbie zamkniêcia okna nie wyskakiwa³ komunikat ,,Are you sure? Changes will be unsaved” (Pontipn5) [improvements]
+8. Mo¿liwoœæ przypisania skrótów klawiszowych do guzików ( Kroki do reprodukcji desktop i web Œrodowisko testowe desktop i web)tak ¿eby nie trzeba by³o wywo³ywaæ za ka¿dym razem programu ctr+windows i klikaæ guzików (Pontipn5) [improvements]
